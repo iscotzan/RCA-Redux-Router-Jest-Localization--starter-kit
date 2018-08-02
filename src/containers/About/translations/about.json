@@ -1,0 +1,19 @@
+{
+    "about": {
+        "title": [
+            "About Page",
+            "à propos de page",
+            "Sobre page",
+            "О странице",
+            "עמוד אודות"
+        ],
+        "greeting": [
+          "Hello",
+          "Bonjour"
+        ],
+        "farewell": [
+          "Goodbye",
+          "Au revoir"
+        ]
+    }
+  }
