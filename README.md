@@ -1,8 +1,6 @@
 This is an extention for quick-starting projects with some common useful tools already setup,
 it was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and thanks to the help of another fork [create-react-app-redux-router-sass-jest](https://github.com/jonsamp/create-react-app-redux-router-sass-jest).
 
-This was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). It contains some changes I find myself making in almost every project I use CRA for.
-
 ## List of changes:
 - Setup and Added different format option for a more organized translation file when using[react-localize-redux](https://ryandrewjohnson.github.io/react-localize-redux-docs/#nested-format) for languages support
 - Tests and translations example files.
